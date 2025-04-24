@@ -14,8 +14,8 @@ from io import BytesIO
 import requests
 
 # تنظیمات اولیه
-api_id = 29042268
-api_hash = '54a7b377dd4a04a58108639febe2f443'
+api_id = 28970536
+api_hash = 'a7f88aa0bc93a1179d576b3216e69035'
 
 # غیرفعال کردن لاگ‌ها
 logging.basicConfig(level=logging.ERROR)
